@@ -2,6 +2,9 @@
 
 This project was followed with [React Tutorial](https://reactjs.org/tutorial/tutorial.html).
 
+## Preview
+![Preview](https://github.com/tobykeod/react-tutorial/blob/main/preview/demo.gif)
+
 ## Available Scripts
 
 In the project directory, you can run:
